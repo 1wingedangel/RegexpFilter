@@ -1,0 +1,27 @@
+##################################################
+## Title: highlight-retweet&replies
+## Author: 1wingedangel
+##################################################
+
+## 1.Description
+## 主要描述。任意格式任意内容。
+
+高亮显示yyada中的RT字符，以及回复推（以@username开头的回复，包括回复给所有人）。
+
+## 2.General Rules
+## 通用规则。能够起上述描述事件最大效果的规则。
+## 衍生版本请写在下面的Specific Rules上。
+
+(R|Q)T:?\s(?=@)|^(\.)?(@\w+?\s)*
+
+## 2.1. Extra Rules
+## 衍生规则。用于通用规则的扩展。
+
+none
+
+## 3.Client-specific Rules
+## 根据客户端对正则表达式规则的格式要求进行格式化。
+
+yyada only
+
+## end
