@@ -1,0 +1,37 @@
+##################################################
+## Title: hoge
+## Author: ╱/( ◕‿‿◕ )\╲
+##################################################
+
+## 1.Description
+## 主要描述。任意格式任意内容。
+
+hogehogehoge
+
+## 2.General Rules
+## 通用规则。能够起上述描述事件最大效果的规则。
+## 衍生版本请写在下面的Specific Rules上。
+
+hogehogehoge
+
+## 2.1. Extra Rules
+## 衍生规则。用于通用规则的扩展。
+
+hoge-hoge-hoge
+
+## 3.Client-specific Rules
+## 根据客户端对正则表达式规则的格式要求进行格式化。
+
+# yyada & Tween.etc
+
+hogehogehoge
+
+# tabtter
+
+<<hogehogehoge>>
+
+# twicli
+
+hoge:hoge:hoge:1
+
+## end
